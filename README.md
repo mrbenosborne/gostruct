@@ -5,7 +5,7 @@ Return an interface from a struct.
 
 ## Installation
 ```
-go get "github.com/mrbenosborne/tripadvisor-golang"
+go get "github.com/mrbenosborne/gostruct"
 ```
 
 ## Example
